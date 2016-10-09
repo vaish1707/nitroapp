@@ -1,0 +1,69 @@
+{
+	"status": "success",
+	"result": [{
+		"id": "item001",
+		"item_name": "Jewellery",
+		"purchased_count": "1230",
+		"price": "1,21,200",
+		"avg_rating": "2",
+		"tags": "Jewellery",
+		"link": "https://www.kazana.com/",
+		"img_src":"/images/jewel.jpg",
+		"likes": "10"
+	}, {
+		"id": "item002",
+		"item_name": "Xiaomi Redmi Note 3",
+		"purchased_count": "6554",
+		"price": "9,999",
+		"avg_rating": "4",
+		"tags": "Mobile,Electronics",
+		"link": "http://www.mi.com",
+		"img_src":"/images/mobile.jpg",
+		"likes": "5"
+
+	}, {
+		"id": "item003",
+		"item_name": "Sony Bravia",
+		"purchased_count": "78",
+		"price": "1,23,222",
+		"avg_rating": "4",
+		"tags": "Television,Electronics",
+		"link": "http://www.sony.com",
+		"img_src":"/images/tv.jpg",
+		"likes": "24"
+
+	}, {
+		"id": "item004",
+		"item_name": "Canon DSLR",
+		"purchased_count": "107",
+		"price": "43,500",
+		"avg_rating": "4",
+		"tags": "Camera,Media",
+		"link": "http://www.cannon.com",
+		"img_src":"/images/camera.jpg",
+		"likes": "43"
+
+	}, {
+		"id": "item005",
+		"item_name": "Titan Women's Watch",
+		"purchased_count": "56",
+		"price": "3,400",
+		"avg_rating": "4",
+		"tags": "Entertainment,Games",
+		"link": "http://www.titan.com",
+		"img_src":"/images/watch.jpg",
+		"likes": "17"
+
+	}, {
+		"id": "item006",
+		"item_name": "Womens Clothing",
+		"purchased_count": "2300",
+		"price": "1,000",
+		"avg_rating": "4",
+		"tags": "Clothing,Western",
+		"link": "http://www.melange.com",
+		"img_src":"/images/dress.jpg",
+		"likes": "87"
+
+	}]
+}
