@@ -22,6 +22,6 @@ Hit CTRL-C to stop the server
 
 ## UI Used
 
-* Material css 
+* Material css
 * Angular js 
 * Fonts Awesome  
